@@ -14,7 +14,14 @@ export class BusquedaComponent  {
   }
 
   buscar (termino:string ){
+
+
+
     const valor = this.textBuscar.nativeElement.value;
+
+    if (valor.trim().length === 0 ) {
+      return;
+    }
 
     this.gifsServices.buscarGifs(valor);
 
