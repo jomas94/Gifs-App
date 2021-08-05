@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
-Check it out here: <a href="https://gifsapp-jhomas.netlify.app/" target="_blank"> https://gifsapp-jhomas.netlify.app/</a>
+Check it out here: <a href="https://gifsapp-jhomas.netlify.app/" target="_blank"> Gifs App</a>
 
 ## Development server
 
